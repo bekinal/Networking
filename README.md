@@ -9,7 +9,7 @@ This lab focuses on designing and configuring a functional LAN, including switch
 
 ---
 
-### 🕵 [Network Examination with Wireshark](https://github.com/bekinal/Network-Examination-with-Wireshark/blob/main/README.md)
+###  [Network Examination with Wireshark](https://github.com/bekinal/Network-Examination-with-Wireshark/blob/main/README.md)
 Wireshark is a core tool in the SOC toolkit. This lab demonstrates my ability to **capture, filter, and interpret packet-level data** to investigate suspicious traffic and validate alerts related to protocols, IPs, and session behavior.
 
 ---
