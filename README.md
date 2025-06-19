@@ -1,6 +1,4 @@
-# Networking & Visibility Labs for SOC Analysts
-
-This lab series highlights my hands-on experience with configuring, analyzing, and securing enterprise network infrastructure. As a future SOC Analyst, these skills allow me to **detect abnormal network behavior, identify misconfigurations**, and understand where and how attacks may occur across the network.
+These labs highlight a key SOC Analyst strength: the ability to **see the full picture of what "normal" looks like in a networked environment**, so anomalies can be detected quickly. From protocol analysis to device hardening and log centralization, each project strengthens my practical threat detection and infrastructure understanding.
 
 ---
 
@@ -44,5 +42,4 @@ This lab demonstrates my ability to implement **automated IP address distributio
 
 ---
 
-Together, these labs highlight a key SOC Analyst strength: the ability to **see the full picture of what "normal" looks like in a networked environment**, so anomalies can be detected quickly. From protocol analysis to device hardening and log centralization, each project strengthens my practical threat detection and infrastructure understanding.
 
